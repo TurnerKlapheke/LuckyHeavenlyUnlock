@@ -1,0 +1,9 @@
+{
+  "Name": "No Lucky 7s Requirement",
+  "ID": "NoLuckySevens",
+  "Author": "Turner Klapheke",
+  "Description": "Makes Lucky Digit, Lucky Number, and Lucky Payout heavenly upgrades visible at Ascension once their parent upgrades are owned, regardless of 7s in prestige level.",
+  "ModVersion": 1,
+  "GameVersion": 2.052,
+  "AllowSteamAchievs": 1
+}
