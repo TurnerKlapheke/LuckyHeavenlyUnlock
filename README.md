@@ -20,8 +20,12 @@ The only change is that they now **appear** in the Ascension tree as long as you
 
 ---
 
-### 🔧 Installation (Local Mod)
+### 📥 Download or Subscribe
 
+**Steam Workshop Page**:  
+https://steamcommunity.com/sharedfiles/filedetails/?id=3519470461
+
+**Manual Installation**:
 1. Clone or download this repository
 2. Place the folder inside your Cookie Clicker mods directory:
   - Cookie Clicker/resources/app/mods/local/NoLuckySevens/
