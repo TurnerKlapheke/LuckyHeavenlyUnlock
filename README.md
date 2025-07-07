@@ -16,7 +16,7 @@ Upgrades still:
 - Cost the same amount of **Heavenly Chips**
 - Must be manually purchased after **ascending**
 
-The only change is that they now **appear** in the Ascension tree as long as you own the prerequisite heavenly upgrades — regardless of how many 7s are in your prestige level.
+The only change is that they now **appear** in the Ascension tree as long as you own the prerequisite heavenly upgrades, regardless of how many 7s are in your prestige level.
 
 ---
 
