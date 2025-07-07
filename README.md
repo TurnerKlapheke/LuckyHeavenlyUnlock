@@ -35,7 +35,7 @@ The only change is that they now **appear** in the Ascension tree as long as you
 ### 💻 Features
 
 - Steam Achievements **remain enabled**
-- Zero gameplay imbalance — not a cheat, just a visibility fix
+- Zero gameplay imbalance - not a cheat, just a visibility fix
 - Fully compatible with other mods
 - Workshop-ready
 
@@ -43,7 +43,7 @@ The only change is that they now **appear** in the Ascension tree as long as you
 
 ### 📜 License
 
-MIT License — free to use, modify, and share.
+MIT License - free to use, modify, and share.
 
 ---
 
